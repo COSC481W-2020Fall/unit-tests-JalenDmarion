@@ -1,29 +1,29 @@
 ## Functionalities:
-Search food and recipe
-Logs
-Recipes
-Allergies/Diet Preferences
-Profile
-User Accounts
-Nutrifacts nutrient calculator
+1. Search food and recipe
+2. Logs
+3. Recipes
+4. Allergies/Diet Preferences
+5. Profile
+6. User Accounts
+7. Nutrifacts nutrient calculator
 
 
 ## Functionalities that need to be tested:
 
 ## Models:
 
-DailyLog, MealLog, MealFood
-create()
-get_total()
-Profile
-get_metric_profile()
-create_profile()
-Recipe
-create()
-get_total()
-RecipeFood
-create()
-get_total()
+1. DailyLog, MealLog, MealFood
+2. create()
+3. get_total()
+4. Profile
+5. get_metric_profile()
+6. create_profile()
+7. Recipe
+8. create()
+9. get_total()
+10. RecipeFood
+11. create()
+12. get_total()
 
 ## Views:
 

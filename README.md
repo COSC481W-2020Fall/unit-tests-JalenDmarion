@@ -1,4 +1,4 @@
-Functionalities:
+## Functionalities:
 Search food and recipe
 Logs
 Recipes
@@ -8,8 +8,10 @@ User Accounts
 Nutrifacts nutrient calculator
 
 
-Functionalities that need to be tested:
-Models:
+## Functionalities that need to be tested:
+
+## Models:
+
 DailyLog, MealLog, MealFood
 create()
 get_total()
@@ -23,7 +25,8 @@ RecipeFood
 create()
 get_total()
 
-Views:
+## Views:
+
 SearchResultsView
 RegisterAccountView
 UpdateProfile
